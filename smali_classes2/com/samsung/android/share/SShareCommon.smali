@@ -1420,7 +1420,7 @@
 
     .prologue
     .line 139
-    const/4 v0, 0x1
+    const/4 v0, 0x0
 
     sput-boolean v0, Lcom/samsung/android/share/SShareCommon;->mIsSupportSetAlwaysUse:Z
 
